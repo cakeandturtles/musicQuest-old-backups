@@ -1,0 +1,39 @@
+Music Game:
+-Problem Statement: How do I create a game/toy which gives the player the feeling of creating a masterpiece of music and conduction an emotional and exciting story?
+
+Ideas: 
+1. platformer with randomly generated monsters and terrain based on performance/player choice (goes with linear nature of reading sheet music left to right)
+2. Musical qualities mapped to player avatar actions
+3. Enemies create dischordance/emptiness in sound
+4. Player manipulates world and a hero reacts and creates the music (players manipulate the music like a conductor but hero takes care of making the sound sound good)
+5. Mix of 1 and 2, where player simueltaneously controls elements of the world along with the player avatar themselves.
+
+Problems:
+1. What if this mode of gameplay is too open... what if players do not feel like they have a steady goal (see flOw and Journey for this)
+2. What if technological/mathematical constraints prevent simplified improvization?
+3. What is the theme of the game?
+4. What aesthetic style? (I want it to be fairly abstract in coloring and features but still have definite, if dynamic, forms... a visual representation of music/sound)
+5. The player avatar could be a direct manifestation of the melodic line, whereas enemies/allies other lifeforms that are animate and intelligent represent countermelodies that the player doesn't immediately have direct control over... the various environmental aspects of the world rperesent the chords/ambience/meter of the music (the player may have some control over this)
+6. See above, how do we balance melodic direct control and ambient/meter control??? This may be difficult think of how we could do this gameplay mechanic wise.
+
+Player has ability to subconsciously change difficulty of the game/world through changing meter/keys/scales/difficulty of musical runs/etc. and this will affect how monsters approach him and antagonize him. 
+
+
+-Anthem and Misplaced Orchestra have the same feel... why is this?
+
+
+-Progress Rock venture bros music surrealistic art and awesomeness inspired by that venture bros episode where Dean listens to progressive rock 
+
+
+
+
+-Does the player save the voice of beauty and team up with it to defeat?
+			.OR.
+-does the player learn and master his own robotic voice and is okay with that?
+			.DAMN.
+-This shit man. this shit is like deep and shit man.
+
+
+
+
+-Rhythm mess-ups lower your defense...

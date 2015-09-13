@@ -1,0 +1,25 @@
+short game, probably about the length of portal or VVVVVV
+
+The three longterm goals::
+-Master your musical talents
+-Find the source of the voice of pure melodic emotion
+-Quell the death and destruction caused by the voids
+
+
+-Each level should be structured around these three longterm goals, both gameplay/story wise
+-While tied to the three goals, the individual levels should be distinct enough to give interesting variety
+
+
+=========================================================================================================
+INTRO::
+
+-Gameplay: Learn basic running and chord smashes. On piano.
+-Story: The beautiful voice awakes you in and leads you to the Noise. Then the voice dissipates and the screen blackens out 
+-Architecture: Inside your tree house at night, lead to the tree top where the Noise looms ominously over.
+
+-AND THEN INTRO TUTORIAL LEVEL PLEASE
+
+
+
+THEN there is an ambient overworld from which you can explore and pick from five different levels
+

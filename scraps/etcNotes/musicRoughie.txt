@@ -1,0 +1,33 @@
+Musical Game Documentation Roughie::
+
+-Sudden Contrast
+
+-Life would be very dull without music. Music is the magic of life...?
+
+-Player simueltaneously controls the ambience and the melody (environment/avatar) but how are we going to do, let alone balance this?
+
+-Various ambience sounds and animal sounds change depending on the current key of the 	composition the player is making or go along with the rhthym or anything like that
+
+-Cycle of day/night = biocircadian rhythms = cycle of human emotions = cycles/swells in 	music
+
+-Mix coralineesque feeling with the music game.
+	-The feeling of exploration like a child and just playing around learning the 	world around you can very well translate to the same experience we're giving 	players with the gameplay ideas already in place.
+
+-Monsters/beasts that flash light in the dark when they get hit/play notes/ or something 	like that... pretty lights in the dark (bioluminesence...?)
+
+-How is accompaniment work? Little animals or allies that follow you around and sort of 	kind of help but are mostly just motivational support?
+
+-Important!!!: Instead of a passive designed mode of difficulty dynamicness: implement DDA choices as a normal part of the gameplay that players will eventually grow used to and subconsciously take advantage of for controlling difficulty (inspired by flOw in games)... gives player more control anyways
+
+-Balance ambient attack and and melodious attacks.
+
+
+
+
+
+
+
+
+
+
+--Player is chasing after the beautiful melodious voice (sung by Ashley Moon) and controls all the blips and bangs, has to find his own (semi-robotic) voice to save her and make pretty things

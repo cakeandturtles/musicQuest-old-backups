@@ -1,0 +1,24 @@
+monophonic texture — a single melody without accompaniment
+
+- I hear you requested a melody that could be played on the piano using one finger.
+
+
+Video game background music, like the pieces we’ve analyzed so far, loops indefinitely. This structure requires that they be harmonically open — in other words, they end on a dominant chord (or something similarly unresolved) so that the harmonic progression can cycle back to the beginning. The warp songs, by contrast, are self-contained and have full cadences at the end.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+quarter note, quarter note, eighth eighth eighth, (think of a way to let player do different rhythmic runs for awesomeness)
+
+-Objectives::
+	-More importance of combos:: (keep a combo meter that rises above your head, when you finish your combo what does the combo meter do?)
+
+
+
+
+-Weapon Mechanics::
+	-Violin rapier:: attacks are quicker (can hit up to sixteenth notes during a beat) but harder to hit to beat
+
+
+
+
+	

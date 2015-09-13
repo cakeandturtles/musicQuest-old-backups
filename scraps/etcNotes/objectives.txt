@@ -1,0 +1,39 @@
+TODO objectives:: RIGHT NOW FOCUS ON THE COMBAT SYSTEM, THEN 1. MOTION, THEN LEVEL DESIGN
+
+I. MECHANICS::
+	1. Each area is represented by a scale/chord (mixolodyian/pentatonic, etc.) 
+		-When you beat the boss, you leave to the area and float in the sound,
+		-You play along and direct the ambience with your eight keys for fun
+		-And concoct a 7 or 8 note melody starting on a unique keyButton (unique for each area)
+	2. In ambient overworld, follow the music to get to undefeated regions. 
+		-World divided into upper, left, and right quadrants maybe whatever.
+	3. Jump chords signify key changes
+		
+
+IV. AESTHETIC ETC::
+
+	1. Health bar nono. instead health of character changes color of the sky
+	2. More colors for bursts. Dependent on note or on action?
+	3. AREAS::
+		a. Cave Marimba
+		b. Treeforest Piano
+		c. Volcano mountains ROCK&ROLL
+	4. FINAL BOSS if you unlock and defeat all the voices
+
+
+
+
+III. FOURTH WALL::
+	1. Make a website. Make freeplay java applet as website design.
+	2. Once game is a little more developed start coding in C++ or java
+	3. Achievements (do not start this at all until you rewatch that extra credits episode)
+		a. Achievements for beating each level/milestone in game
+	4. Unlockables. Give this some thought. 
+		a. Birdsong voice; percussion ensemble; marching band?; glee/broadway; dubstep; (mini hidden bosses for these?);
+
+
+
+
+
+
+-The Life and Death of Music. You're born in an egg and your die in a static cloud of white noise. One long trippy music sequence

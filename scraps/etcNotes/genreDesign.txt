@@ -1,0 +1,66 @@
+Level Mechanics::
+
+
+I. JAZZ/BIG BAND:: The cool cats.
+	1. MECHANIC: 
+		a. RHYTHM: Synchopation/Swing
+		b. BOSS MODE: Boss is good at improvization and so can recognize patterns of attack
+	3. PLAYER::
+	2. INSTRUMENTS:
+		a. Trumpets
+		b. Saxes
+		c. Double bass	
+
+II. FOLKY WESTERN:: Swampy/grassland hills area. THE OL' WEST
+	1. MECHANIC: 
+		a. RHYTHM: Orally passed on (as opposed to written).
+		b. BOSS MODE: Roots music, so uses the environment to fight you a lot
+	3. RANGER/DRUID/COWBOY:: uses arrows. Space BAR 
+	2. INSTRUMENTS:
+		a. Bongos
+		b. Harmonica
+		c. banjo
+		d. Panflute, wooden wind
+
+III. CLASSICAL:: Pompous and rigorous. Pretensive and traditional. Advanced renaissance civilization.
+	1. MECHANIC:
+		a. RHYTHM: Very complex and rigid and rigorous, technically
+		b. BOSS MODE: Has movements/sections so is composed of several smaller bosses
+	3. NOBLE/ARISTOCRAT/MARSHAL:: 
+	2. INSTRUMENTS:
+		a. String quartet
+		b. Harpsichord/Organ
+		d. Timpani
+
+IV. ROCK&METAL:: Wild dragons of the volcano and panthers and other kickass rocking shit!!!
+	1. MECHANIC:
+		a. RHYTHM: Wicked fast solos, you can't play solos when he's playing solos
+		b. BOSS MODE: Boss also has a kickass guitar and so casts many awesome spells when soloing
+	3. SORCEROR/ELEMENTIST:: Wears a robe, limits horizontal movement. Double jump is magic POWERCHORDS. Dashes leave trails of fire:: spaceBar slows down for electric guitar SOLO MODE
+	2. INSTRUMENTS:
+		a. Electric Guitar
+		b. Rhythm Guitar
+		c. Electric Bass
+		d. Hardcore Drums
+
+V. ELECTRONIC:: 
+	1. MECHANIC:
+		c. ETC: ultra-fast arpeggios instead of chords
+	3. PSION/WILDER/MESMER:: 
+	2. INSTRUMENTS:
+		a. Pure sine waves
+		b. Pure square waves
+		e. Robot/autotuned voice
+
+VI. LATIN HYMNS:: The ancients of the musical world. The religion, the mythology. Stone henge lol
+	1. MECHANIC:
+	2. INSTRUMENTS:
+		a. latin hymnal voice
+
+
+
+
+
+VII. ETC VOICES (should at least be one per level + 1 or 2 preexisting/endGame::
+	1. "NATURAL":: birdsong, burbly creek+bubbles, leafs swaying, sound effects --GRASSLAND/FOREST BASED
+	2. PERCUSSION:: xylophone, marimba, bells; --CAVE BASED

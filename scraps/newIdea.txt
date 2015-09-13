@@ -1,0 +1,49 @@
+Inspired by: actually listening to music:
+====================================================================================================================
+-Playing the piano is all well and good, but for a full ensemble you're really lacking.
+
+-So, what I propose we move to is a game in which you start off as the piano character, but you have to go and, so to speak, "GET THE BAND BACK TOGETHER!!!". 
+--------------------------------------------------------------------------------------------------------------------
+I. You're the piano, the melodic lead.
+	-Control the main player avatar, with L/R movement (running/dashing) and jumps and falls
+
+II. You'll need drums/percussion
+	-The driving rhythm of the ensemble. 
+	-When the drums are added, you need to learn how to play with the beat.
+		-Playing off the beat momentarily stuns both of you, while the drummer reconfigures
+		-If you play on the beat though, you create larger note bursts. 
+	The factors of 1800 we will use for tempo: 30 36 40 45 50 60 72 75 90 100 120
+	!!!!You may have to cut some of the delay on the note playing!!!
+
+PROBLEM!!!!!:: MAYBE IT'S NOT THE FUNNEST TO PLAY ON A RHYTHM WITHOUT ANY VISUAL CUE OR WITH SUCH A STATIC TEMPO (it's really not )
+
+
+
+III. You'll need bass  
+	-Also rhythmic, but can be more groovey. 
+	-The bass drives the chordal progression. This creates the various accompaniment effects from before (antigrav, other world manipulation, etc)
+	-When the full rhythm ensemble has been assembled (drums&bass), the player gains the ability to direct both of them by holding down the space bar and creating his own beat&groove.
+	-Left hand helps control the bass/rhythm
+
+IV. You'll need a voice. 
+	-More melodic than anything. Arguably the most beautiful
+	-Sings to the beat&groove that is created, and also sings mini solos with your chords
+	-Creates ranged attacks with the avatar, think of more
+	-Right hand helps control the voice
+
+V. You may want a horn?? (horns are cool) You may want a violin?? (the are also cool)	
+	-Maybe.
+
+
+
+-Enemies are just little derps who come along and are successfully defeated by playing to the beat, and more advantageous to use dashes/suspend gravity/ground/air chords on some
+
+-Consider remaking the landscape and the enemies much more abstract in colors and shapes. Make the visual style more ambient than anything, with definite forms for the player, the ground, and the position/relative size of the enemies
+
+-----------------------------------------------------------------------------------------------------------------------
+
+ANOTHER IMPORTANT FEATURE::
+-How does chord progression vs. chordal type work???
+-each of the other instruments comes into play depending on a certain number of successful rhythmic note streaks.
+-HOW DO WE WORK KEYBOAR PAUSES AND BRIDGES INTO THE WORK???
+-Funky ass runs:: http://www.youtube.com/watch?v=zAuqowo5vA4&feature=autoplay&list=FLbs3O0LPIHURLexk87Bha2A&lf=plpp_video&playnext=5

@@ -1,0 +1,24 @@
+TYPES OF ENEMIES AND WAYS TO DEFEAT THEM::
+--------------------------------------------------------------------------------
+-***Basswolf, will run at player from the right whilst playing bassrun. Can be hurt by ground attacks or avoided by jumping over.
+
+-Bongobeast, will play percussive notes and ruin the tempo, making it more difficult to play on beat
+
+-Hornhead, will BLAST brass sound at player. Must be jump-dashed over. 
+
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+-SO:: void monsters can be around to nullify musical effects of player, and player can only defeat them by charging a double chord and sucking them in
+-BUT:: if void monsters are in cahoots with normal monsters, the voids protect the norms, and the norms attack the player out of the double chord charge
+
+
+!!!make it so the more void monsters there are, the longer it takes to suck in a void
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+***I've already made this
